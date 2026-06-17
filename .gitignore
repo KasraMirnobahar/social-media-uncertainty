@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Participant data (never published)
+data/
+
+# Archives
+*.zip
+
+# Stale embedded duplicate of this project (has its own .git)
+social-media-uncertainty/
